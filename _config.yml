@@ -1,0 +1,10 @@
+title: "정수호의 웹사이트"
+description: "인문학과 데이터과학의 만남"
+theme: minima
+
+author:
+  name: "정수호"
+  email: "hsyjsh02@snu.ac.kr"
+
+header_pages:
+  - about.md
